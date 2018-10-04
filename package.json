@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ierogliff/2018-FS-11-Frontend-Ratnikov/issues"
   },
-  "homepage": "https://github.com/ierogliff/2018-FS-11-Frontend-Ratnikov#readme"
+  "homepage": "https://github.com/ierogliff/2018-FS-11-Frontend-Ratnikov#readme",
+  "devDependencies": {
+    "webpack": "^4.20.2"
+  }
 }
