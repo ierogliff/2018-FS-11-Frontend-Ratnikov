@@ -1,0 +1,19 @@
+{
+  "name": "2018-fs-11-frontend-ratnikov",
+  "version": "1.0.0",
+  "description": "messe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ierogliff/2018-FS-11-Frontend-Ratnikov.git"
+  },
+  "author": "Ratnikov Yaroslav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ierogliff/2018-FS-11-Frontend-Ratnikov/issues"
+  },
+  "homepage": "https://github.com/ierogliff/2018-FS-11-Frontend-Ratnikov#readme"
+}
